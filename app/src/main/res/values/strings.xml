@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Foody</string>
+    <string name="title">Kitchen</string>
+    <string name="desc">Kitchen offers a combination of credible cooking and new culinary ideas.</string>
+    <string name="start_btn">Get Started</string>
+    <string name="title_home">Food of The day</string>
+    <string name="cake">Cake</string>
+    <string name="classic">Classic</string>
+    <string name="_300g">300g</string>
+    <string name="_30_00_">$30,00</string>
+    <string name="categories">Categories</string>
+    <string name="tomato_bisque_">Tomato Bisque</string>
+    <string name="view_details">View Details</string>
+    <string name="tomato_bisque">Tomato Bisque</string>
+    <string name="super_pleasure">Super Pleasure</string>
+    <string name="description">Description</string>
+    <string name="desc_">Yot don\'t need a whole basket of vine-ripened tomatoes to make a delicious tomato bisque</string>
+    <string name="price">Price</string>
+    <string name="_30_00">$30,00</string>
+    <string name="add_to_cart">Add to cart</string>
+</resources>
